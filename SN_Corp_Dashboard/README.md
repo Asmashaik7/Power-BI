@@ -26,6 +26,7 @@ Interactive filters for exploring data
 🖼 Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)
+<img src="dashboard.png" alt="Dashboard Preview" width="600">
 
 ⚙️ How to View
 

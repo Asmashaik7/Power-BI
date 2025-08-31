@@ -25,7 +25,7 @@ Interactive filters for exploring data
 
 🖼 Dashboard Preview
 
-(Exported from Power BI — placed as dashboard.png in this folder.)
+![Dashboard Preview](dashboard.png)
 
 ⚙️ How to View
 

@@ -22,7 +22,13 @@ Total Profit: $175K
 
 Orders/Quantity: 22K
 
-Average Delivery Days: 4
+Average Delivery Days: 4 (by using DAX function, Datedif)
+
+🖼 Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+<img src="dashboard.png" alt="Dashboard Preview" width="600">
+
 
 Dashboard Features
 

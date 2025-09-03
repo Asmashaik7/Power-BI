@@ -25,7 +25,7 @@ Interactive filters for exploring data
 
 🖼 Dashboard Preview
 
-<img src="dashboard.png" alt="Dashboard Preview" width="600">
+<img src="SN Corp.png" alt="Dashboard Preview" width="600">
 
 ⚙️ How to View
 

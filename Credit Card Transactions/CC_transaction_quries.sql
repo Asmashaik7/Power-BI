@@ -50,13 +50,4 @@ SELECT * FROM cc_detail;
 SELECT * FROM cust_detail;
 GO
 
--- 3. Copy csv data into SQL 
--- copy cc_detail table
 
-BULK INSERT cc_detail
-FROM 'D:\Power BI\Rishab-CC_Customer\credit_card.csv'
-WITH (
-    FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n',
-    FIRSTROW = 2
-);

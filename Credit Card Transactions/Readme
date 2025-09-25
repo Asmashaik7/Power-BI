@@ -1,21 +1,15 @@
 # 📊 Credit Card Financial Dashboard using Power BI
 
-[![SQL](https://img.shields.io/badge/SQL-Expert-blue)](https://www.microsoft.com/en-us/sql-server)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Expert-orange)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-Intermediate-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
----
-
 ## 📖 Table of Contents
-1. [📝 Project Title & Description](#1-project-title--description)
-2. [🎯 Problem Statement / Objective](#2-problem-statement--objective)
-3. [💾 Data Details](#3-data-details)
-4. [⚙️ Steps Performed](#4-steps-performed)
-5. [📐 DAX Queries](#5-dax-queries)
-6. [📸 Dashboard Screenshots](#6-dashboard-screenshots)
-7. [💡 Key Insights / Findings](#7-key-insights--findings)
-8. [🛠️ Tools & Technologies Used](#8-tools--technologies-used)
-9. [🚀 Future Work / Improvements](#9-future-work--improvements)
+1. 📝 Project Title & Description
+2. 🎯 Problem Statement / Objective
+3. 💾 Data Details
+4. ⚙️ Steps Performed
+5. 📐 DAX Queries
+6. 📸 Dashboard Screenshots]
+7. 💡 Key Insights / Findings
+8. 🛠️ Tools & Technologies Used
+9. 🚀 Future Work / Improvements
 
 ---
 
@@ -115,10 +109,13 @@ wow_revenue_ratio = DIVIDE(
 )
 📸 6. Dashboard Screenshots
 
-Credit Card Customer Analysis Dashboard:
-
-
 Credit Card Transaction Dashboard:
+![Credit Card Customer Analysis Dashboard](https://raw.githubusercontent.com/Asmashaik7/Power-BI/main/Credit%20Card%20Transactions/Creditcard-Transaction%20Report.png)
+
+Credit Card Customer Analysis Dashboard:
+![Credit Card Customer Analysis Dashboard](https://raw.githubusercontent.com/Asmashaik7/Power-BI/main/Credit%20Card%20Transactions/Creditcard-Transaction%20Report.png)
+
+
 💡 7. Key Insights / Findings (Week 53 - 31st Dec)
 
 WoW Change:

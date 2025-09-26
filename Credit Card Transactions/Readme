@@ -109,9 +109,13 @@ wow_revenue_ratio = DIVIDE(
 )
 📸 6. Dashboard Screenshots
 
-![Credit Card Customer Analysis Dashboard](https://raw.githubusercontent.com/Asmashaik7/Power-BI/main/CreditCardTransactions/CreditcardTransactionReport.png)
+Credit Card Customer Analysis Dashboard:
 
-![Credit Card Transaction Dashboard](https://raw.githubusercontent.com/Asmashaik7/Power-BI/main/CreditCardTransactions/CreditCardCustomerReport.png)
+<img src="CreditCard-Customer Report.png" alt="Dashboard Preview" width="600">
+
+Credit Card Transaction Dashboard:
+
+<img src="Creditcard-Transaction Report.png" alt="Dashboard Preview" width="600">
 
 💡 7. Key Insights / Findings (Week 53 - 31st Dec)
 

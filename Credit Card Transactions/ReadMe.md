@@ -107,53 +107,54 @@ wow_revenue_ratio = DIVIDE(
     (credit_card[Current_week_revenue] - credit_card[Previous_week_revenue]),
     credit_card[Previous_week_revenue]
 )
-📸 6. Dashboard Screenshots
-### Credit Card Customer Analysis Dashboard
+
+##📸 6. Dashboard Screenshots
+ ** Credit Card Customer Analysis Dashboard
 
 <img src="./CreditCard-Customer-dashboard.png" alt="Credit Card Customer Analysis Dashboard" width="600">
 
-### Credit Card Transaction Dashboard
+ ** Credit Card Transaction Dashboard
 
 <img src="./CreditCard-Transaction-dashboard.png" alt="Credit Card Transaction Dashboard" width="600">
 
 
-💡 7. Key Insights / Findings (Week 53 - 31st Dec)
+##💡 7. Key Insights / Findings (Week 53 - 31st Dec)
 
-WoW Change:
+-- Week on Week(WoW) Change:
 
-Revenue increased by 28.8%
+-- Revenue increased by 28.8%
 
-Total Transaction Amount increased by 262,331 (35.04% increase compared to previous week)
+-- Total Transaction Amount increased by 262,331 (35.04% increase compared to previous week)
 
-Customers increased from 124 → 185 (49.19% increase)
+-- Customers increased from 124 → 185 (49.19% increase)
 
-Overview YTD (Year To Date):
+-- Overview YTD (Year To Date):
 
-Overall revenue: 57M
+-- Overall revenue: 57M
 
-Total interest: 8M
+-- Total interest: 8M
 
-Total transaction amount: 46M
+-- Total transaction amount: 46M
 
-Male customers contributed 31M, female 26M
+-- Male customers contributed 31M, female 26M
 
-Blue & Silver credit cards contributed 93% of overall transactions
+-- Blue & Silver credit cards contributed 93% of overall transactions
 
-TX, NY & CA contributed 68% of overall transactions
+-- TX, NY & CA contributed 68% of overall transactions
 
-Overall Activation rate: 57.5%
+-- Overall Activation rate: 57.5%
 
-Overall Delinquent rate: 6.06%
+-- Overall Delinquent rate: 6.06%
 
-🛠️ 8. Tools & Technologies Used
+##🛠️ 8. Tools & Technologies Used
 
-SQL
+ 1. SQL
 
-Power BI
+ 2. Power BI
 
-Excel
+ 3. Excel
 
-🚀 9. Future Work / Improvements
+##🚀 9. Future Work / Improvements
 
 Add predictive modeling for churn and fraud detection
 Incorporate more granular customer segmentation

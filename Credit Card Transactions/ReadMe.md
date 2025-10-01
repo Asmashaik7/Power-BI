@@ -69,7 +69,7 @@ AgeGroup = SWITCH(
     "unknown"
 )
 
-**2. Income Group Calculated Column
+2. Income Group Calculated Column
 ```DAX
 IncomeGroup = SWITCH(
     TRUE(),
@@ -79,7 +79,7 @@ IncomeGroup = SWITCH(
     "unknown"
 )
 
-3. Week Number Calculated Column
+**3. Week Number Calculated Column**
 ```DAX
 week_num2 = WEEKNUM('public cc_detail'[week_start_date])
 
@@ -108,7 +108,9 @@ wow_revenue_ratio = DIVIDE(
     credit_card[Previous_week_revenue]
 )
 
-##📸 6. Dashboard Screenshots
+---
+
+## 📐 6. Dashboard Screenshots
  ** Credit Card Customer Analysis Dashboard
 
 <img src="./CreditCard-Customer-dashboard.png" alt="Credit Card Customer Analysis Dashboard" width="600">

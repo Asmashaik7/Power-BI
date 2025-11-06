@@ -1,0 +1,4 @@
+OrderID,CustomerID,OrderDate,TotalAmount
+O1,C1,15-11-2024,1300
+O2,C2,16-11-2024,850
+O3,C3,17-12-2024,500

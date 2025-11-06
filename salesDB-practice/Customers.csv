@@ -1,0 +1,5 @@
+CustomerID,C1,C2,C3,C4,C5,C6,C7
+CustomerName,John Doe,Jane Smith,Mike Johnson,Sarah Connor,Bob Smith,David Warner,Mary Jane
+Email,john.doe@example.com,jane.smith@example.com,mike.j@example.com,sarah.c@example.com,Bob.s@example.com,David.w@example.com,Mary.jane@example.com
+Phone,1234567890,9876543210,4561237890,7896541230,8659451565,7485123568,4548689545
+City,New York,Los Angeles,Chicago,Houston,New York,Los Angeles,California
